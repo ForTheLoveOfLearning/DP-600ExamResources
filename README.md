@@ -27,7 +27,8 @@ Click on the following link to access a mindmap filled with clickable resources 
 - [DP-600 Microsoft Fabric Analytics Engineer Associate Course](https://learn.microsoft.com/en-us/training/courses/dp-600t00)
 - [Microsoft Fabric Career Hub](https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid=fabric24_careerhub_pbi_careerhubblog_clp)
 - [Microsoft Fabric Community](https://community.fabric.microsoft.com/)
-
+- [New for 2025! DP-700 Microsoft Fabric Data Engineer Associate Course](https://techcommunity.microsoft.com/blog/microsoft_365blog/get-certified-the-must-have-data-engineer-credential/4384389)
+  
 ## Mindmaps for various Microsoft Resources📒
 - [Full Course Mindmaps](https://azurebrainwave.github.io)
 
