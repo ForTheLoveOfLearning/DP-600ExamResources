@@ -30,6 +30,8 @@ Click on the following link to access a mindmap filled with clickable resources 
 - [Microsoft Fabric Career Hub](https://community.fabric.microsoft.com/t5/custom/page/page-id/CareerHubPage?ocid=fabric24_careerhub_pbi_careerhubblog_clp)
 - [Microsoft Fabric Community](https://community.fabric.microsoft.com/)
 - [New for 2025! DP-700 Microsoft Fabric Data Engineer Associate Course](https://techcommunity.microsoft.com/blog/microsoft_365blog/get-certified-the-must-have-data-engineer-credential/4384389)
+- [Chart your course as a Microsoft Fabric Data Engineer with curated skilling and certifications | Microsoft Fabric Blog](https://github.com/user-attachments/assets/8a26c8bf-93d2-4d6c-944c-157c6f2e0a80)
+
   
 ## Mindmaps for various Microsoft Resources📒
 - [Full Course Mindmaps](https://azurebrainwave.github.io)
