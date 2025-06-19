@@ -1,5 +1,5 @@
 # DP-600/DP-700 Exam Resources
-Resources around preparing for the DP-600 Microsoft Fabric Data Analytics Engineer Associate Certification Exam
+Resources around preparing for the DP-600 Microsoft Fabric Data Analytics Engineer Associate Certification Exam and the DP-700 Microsoft Fabric Data Engineer Associate Certification Exam.
 
 
 ## About
