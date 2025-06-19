@@ -1,4 +1,4 @@
-# DP-600 Exam Resources
+# DP-600/DP-700 Exam Resources
 Resources around preparing for the DP-600 Microsoft Fabric Data Analytics Engineer Associate Certification Exam
 
 
@@ -19,8 +19,10 @@ Click on the following link to access a mindmap filled with clickable resources 
 <img src="https://raw.githubusercontent.com/ForTheLoveOfLearning/DP-600ExamResources/refs/heads/main/DP-600_Exam_Mindmap_Full.svg">
 
   
+## Step 1: Click [Mindmap](https://raw.githubusercontent.com/ForTheLoveOfLearning/DP-600ExamResources/refs/heads/main/DP-700_Exam_Mindmap_Full.svg)
+## Step 2: CTRL + Click on a Link in the mindmap to access a resource 
 
-
+<img src="https://raw.githubusercontent.com/ForTheLoveOfLearning/DP-600ExamResources/refs/heads/main/DP-700_Exam_Mindmap_Full.svg">
 
 ### Everything Microsoft Fabric
 - [Microsoft Fabric Product Page](https://www.microsoft.com/en-us/microsoft-fabric?msockid=186ce81abd2b6726173bfcc9bc29666a)
